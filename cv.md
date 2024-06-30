@@ -1,10 +1,13 @@
 # Andrey Seravkin
 
+![avatar](https://avatars.githubusercontent.com/u/126988344?s=400&v=4)
+
 ## Junior Frontend Developer
 
 ## Contact information:
 
-E-mail: maintainerdrew@ro.ru
+- E-mail: maintainerdrew@ro.ru  
+- Discord: andyserav
 
 ## Briefly About Myself:
 
@@ -12,10 +15,10 @@ After starting my career as a PHP freelancer and working for a few years, I deci
 
 ## Skills and Proficiency:
 
-- PHP, Wordpress Intermediate
-- HTML5 Basics, CSS3 Basics
-- JavaScript Basics
-- Git Basics, GitHub Basics
+- PHP, Wordpress Intermediate  
+- HTML5 Basics, CSS3 Basics  
+- JavaScript Basics  
+- Git Basics, GitHub Basics  
 - VS Code Basics
 
 ## Code example:
@@ -36,5 +39,5 @@ function multiply(a, b){
 
 ## Languages:
 
-- English - A2
+- English - A2  
 - Russian - Native
