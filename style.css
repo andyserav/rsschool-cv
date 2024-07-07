@@ -1,6 +1,32 @@
-h1 {
-    color: black;
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 25%;
 }
-p {
-    color: black;
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+}
+main {
+    display: flex;
+    flex-direction: column;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+div {
+    margin: 50px 0;
+}
+img {
+    width: 100px;
+}
+code {
+    display: block;
+    unicode-bidi: embed;
+    font-family: monospace;
+    white-space: pre;
 }
